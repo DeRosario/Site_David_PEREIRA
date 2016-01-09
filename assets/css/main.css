@@ -2936,12 +2936,12 @@ a {
 .texteaboutus{
 	
 	text-shadow:
-	#000000 1px 1px 1px,
-	#000000 -1px 1px 1px,
-	#000000 -1px -1px 1px,
-	#000000 1px -1px 1px;
+	#ffa500 1px 1px 1px,
+	#ffa500 -1px 1px 1px,
+	#ffa500 -1px -1px 1px,
+	#ffa500 1px -1px 1px;
 
-	color: orange;
+	color: white;
 	
 	font-size: 30px;
 
@@ -3031,12 +3031,12 @@ a {
 #textecontactform{
 	
 	text-shadow:
-	#000000 1px 1px 1px,
-	#000000 -1px 1px 1px,
-	#000000 -1px -1px 1px,
-	#000000 1px -1px 1px;
+	#ffa500 1px 1px 1px,
+	#ffa500 -1px 1px 1px,
+	#ffa500 -1px -1px 1px,
+	#ffa500 1px -1px 1px;
 
-	color: orange;
+	color: white;
 	
 	font-size: 35px;
 
